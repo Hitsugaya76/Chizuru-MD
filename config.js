@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919172673114']
-global.OwnerNumber = ['919172673114']
-global.ownertag = ['919172673114']
-global.BotName = "Chizuru Mizuhara"
-global.packname = "Ox.Itachi < 3"
+global.Owner = ['243993366258']
+global.OwnerNumber = ['1 323-451-7005']
+global.ownertag = ['1 323-451-7005']
+global.BotName = "𝐑𝐘𝐔𝐙𝐀𝐊𝐈"
+global.packname = "𝐑𝐘𝐔𝐙𝐀𝐊𝐈"
 global.author = "Say.Scotch"
-global.OwnerName = "Scotch"
+global.OwnerName = "𝐑𝐘𝐔𝐙𝐀𝐊𝐈"
 global.BotSourceCode = "Sorry I can't give"
 global.SupportGroupLink = "https://chat.whatsapp.com/JBDzYnTIrawLBptciuMiFA"
 global.sessionName = "session"
@@ -65,9 +65,9 @@ global.mess = {
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting:'*Baka...*',
-    nolink: 'Please provide me *link*, Baka!',
+    nolink: 'Please provide me *link*, Baka t'es vraiment con tu sais!',
     error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
+    banned: 'You are *Banned* fron using commands connard c'est toi qui la voulus!',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
     
